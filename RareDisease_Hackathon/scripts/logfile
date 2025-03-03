@@ -1,0 +1,2 @@
+2025-03-02 15:45:54.223 UTC [12677] FATAL:  lock file "postmaster.pid" already exists
+2025-03-02 15:45:54.223 UTC [12677] HINT:  Is another postmaster (PID 12436) running in data directory "/Users/pasteque/Documents/Github/rare-disease-patient-portal/scripts/.venv/postgresql"?
