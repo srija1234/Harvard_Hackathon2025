@@ -4,7 +4,9 @@ Developed a website which helps patients (with Rare Disorders) by providing a se
 tracking progress, appointments, viewing key details,  or getting timely notifications, it empowers patients with rare diseases or their guardians to stay connected and in control of their journey.
 
 Figma - UI/UX design
+
 Visual Studio - Django web framework with React, Python
+
 Postgres - Data storage/retrieval
 
 (Code and Files are in Master branch)
